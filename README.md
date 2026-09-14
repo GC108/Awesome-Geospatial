@@ -1730,6 +1730,7 @@ for geospatial and tabular data.
 * [GeoNames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million place names (cities, postal codes, countries) that are available for download free of charge.
 * [Global Climate Monitor](https://kerdoc.cica.es/) - Global open climate data.
 * [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - Open source database of power plants.
+* [Harvestly Markets Farmers Market Dataset](https://harvestlymarkets.com/data-sources/) - Open (CC BY 4.0) point dataset of 7,900+ US farmers markets with lat/lng coordinates, address, season and SNAP/EBT acceptance, derived from USDA Local Food Portal data. CSV and JSON.
 * [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Healthcare) - Locations of healthcare services in Europe.
 * [HydroSHEDS](https://www.hydrosheds.org/) - Consistent hydrographic data for global applications.
 * [INPE CBERS4A and Amazonia1 Database](http://www2.dgi.inpe.br/catalogo/explore) - Download free CBERS 4A and Amazonia 1 images.
